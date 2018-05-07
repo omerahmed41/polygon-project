@@ -1,0 +1,5 @@
+/Users/omer/Projects/gtkline/gtkline/obj/x86/Debug/gtkline.csproj.CoreCompileInputs.cache
+/Users/omer/Projects/gtkline/gtkline/bin/Debug/gtkline.exe
+/Users/omer/Projects/gtkline/gtkline/bin/Debug/gtkline.pdb
+/Users/omer/Projects/gtkline/gtkline/obj/x86/Debug/gtkline.exe
+/Users/omer/Projects/gtkline/gtkline/obj/x86/Debug/gtkline.pdb

@@ -1,0 +1,5 @@
+/Users/omer/Desktop/polygon project/bin/Debug/gtkline.exe
+/Users/omer/Desktop/polygon project/bin/Debug/gtkline.pdb
+/Users/omer/Desktop/polygon project/obj/x86/Debug/Polygon.csproj.CoreCompileInputs.cache
+/Users/omer/Desktop/polygon project/obj/x86/Debug/gtkline.exe
+/Users/omer/Desktop/polygon project/obj/x86/Debug/gtkline.pdb

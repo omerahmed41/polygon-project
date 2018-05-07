@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{66678365-D261-4EBE-BBEC-1439A31DF4EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadCordinactionfromTxt.cs">
+    <Files>
+      <File FileName="Properties/PolygonSegments.cs" Line="47" Column="36" />
+      <File FileName="Properties/Drawpolygon.cs" Line="56" Column="12" />
+      <File FileName="ReadCordinactionfromTxt.cs" Line="22" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Polygon PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
